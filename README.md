@@ -1,5 +1,6 @@
 # Rapture
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0b948b1a139643dc9d23123436e6c8b1)](https://www.codacy.com/app/igor-melent/rapture?utm_source=github.com&utm_medium=referral&utm_content=mielientiev/rapture&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/propensive/rapture.png?branch=dev)](https://travis-ci.org/propensive/rapture)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.propensive/rapture-core_2.11/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.propensive/rapture-core_2.11)
 [![License](http://img.shields.io/:license-Apache%202-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
